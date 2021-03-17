@@ -11,5 +11,8 @@
     "newrelic"
   ],
   "author": "Prakash Soma Reddy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5"
+  }
 }
