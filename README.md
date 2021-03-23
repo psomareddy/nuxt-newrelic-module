@@ -14,7 +14,7 @@ This plugin expects the Node.js agent [newrelic npm package](https://www.npmjs.c
 
 ```js
   npm install newrelic
-  npm install git+https://github.com/preddy-newrelic/nuxt-newrelic-module.git#1.0.0
+  npm install git+https://github.com/preddy-newrelic/nuxt-newrelic-module.git#1.0.1
 ```
 
 - Then, add `@nuxtjs/newrelic` to the `modules` section of `nuxt.config.js`
