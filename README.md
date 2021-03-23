@@ -23,9 +23,6 @@ This plugin expects the Node.js agent [newrelic npm package](https://www.npmjs.c
 {
   modules: [
     '@nuxtjs/newrelic',
-  ],
-  newrelic: {
-
-  }
+  ]
 }
 ```
